@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">RideCellParking</string>
+    <string name="app_name">RideCell Parking</string>
+    <string name="title_activity_maps">Map with Marker</string>
 </resources>
